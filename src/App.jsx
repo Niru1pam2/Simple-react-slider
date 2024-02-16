@@ -7,8 +7,8 @@ import SlickCarousel from "./SlickCarousel";
 const App = () => {
   return (
     <main>
-     
-      <SlickCarousel />
+      <Carousel />
+      
     </main>
   );
 };
